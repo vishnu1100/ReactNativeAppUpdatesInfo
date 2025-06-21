@@ -2,5 +2,5 @@
   "version": "1",
   "build": "1",
   "apkUrl": "https://github.com/<your-username>/<repo-name>/releases/download/v1.0.1/app-release.apk",
-  "notes": "Bug fixes and improvements"
+  "notes": "Bug fixes and improvements,New UI Updates on learner dashboard"
 }
